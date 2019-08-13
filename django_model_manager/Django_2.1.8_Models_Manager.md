@@ -69,31 +69,3 @@
 ​		指定表名之后，需要重新数据迁移
 
 ![09](./09.png)
-
-
-
-
-
-
-
-> <span style='color:fuchsia'>fuchsia</span>
->
-> <span style='color:maroon'>maroon</span>
->
-> <span style='color:navy'>navy</span>
->
-> <span style='color:crimson'>crimson</span>
->
-> <span style='color:deeppink'>deeppink</span>
->
-> <span style='color:darkcyan'>darkcyan</span>
-
-<div style="float:left;width:12.5%;height:4px;background:deeppink;"></div>
-<div style="float:left;width:12.5%;height:4px;background:fuchsia;"></div>
-<div style="float:left;width:12.5%;height:4px;background:maroon;"></div>
-<div style="float:left;width:12.5%;height:4px;background:navy;"></div>
-<div style="float:left;width:12.5%;height:4px;background:crimson;"></div>
-<div style="float:left;width:12.5%;height:4px;background:darkcyan;"></div>
-<div style="float:left;width:12.5%;height:4px;background:purple;"></div>
-<div style="float:left;width:12.5%;height:4px;background:brown;"></div>
-<div style='width:100%;height:30px;text-align:center;'>Copyright ©2019 iticle</div>
