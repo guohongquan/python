@@ -345,39 +345,3 @@
   * **关联查询时，如果类中没有关系属性，条件可以通过对应的类名即可，如果有关系属性，直接通过关系属性查询**
   
   * **跨表查询通过双下划线实现**
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-> <span style='color:fuchsia'>fuchsia</span>
->
-> <span style='color:maroon'>maroon</span>
->
-> <span style='color:navy'>navy</span>
->
-> <span style='color:crimson'>crimson</span>
->
-> <span style='color:deeppink'>deeppink</span>
->
-> <span style='color:darkcyan'>darkcyan</span>
-
-<div style="float:left;width:12.5%;height:4px;background:deeppink;"></div>
-<div style="float:left;width:12.5%;height:4px;background:fuchsia;"></div>
-<div style="float:left;width:12.5%;height:4px;background:maroon;"></div>
-<div style="float:left;width:12.5%;height:4px;background:navy;"></div>
-<div style="float:left;width:12.5%;height:4px;background:crimson;"></div>
-<div style="float:left;width:12.5%;height:4px;background:darkcyan;"></div>
-<div style="float:left;width:12.5%;height:4px;background:purple;"></div>
-<div style="float:left;width:12.5%;height:4px;background:brown;"></div>
-<div style='width:100%;height:30px;text-align:center;'>Copyright ©2019 iticle</div>
