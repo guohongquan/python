@@ -1,13 +1,3 @@
-<div style="width:100%;height:30px;"><div style='float:right;'>- 2019.06.Django -</div></div>
-<div style="float:left;width:12.5%;height:4px;background:deeppink;"></div>
-<div style="float:left;width:12.5%;height:4px;background:fuchsia;"></div>
-<div style="float:left;width:12.5%;height:4px;background:maroon;"></div>
-<div style="float:left;width:12.5%;height:4px;background:navy;"></div>
-<div style="float:left;width:12.5%;height:4px;background:crimson;"></div>
-<div style="float:left;width:12.5%;height:4px;background:darkcyan;"></div>
-<div style="float:left;width:12.5%;height:4px;background:purple;"></div>
-<div style="float:left;width:12.5%;height:4px;background:brown;"></div>
-
 # Django_2.1.8_Template
 
 > <span style='color:darkcyan'>Template文件加载顺序</span>

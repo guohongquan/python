@@ -1,13 +1,3 @@
-<div style="width:100%;height:30px;"><div style='float:right;'>- 2019.06.Django -</div></div>
-<div style="float:left;width:12.5%;height:4px;background:deeppink;"></div>
-<div style="float:left;width:12.5%;height:4px;background:fuchsia;"></div>
-<div style="float:left;width:12.5%;height:4px;background:maroon;"></div>
-<div style="float:left;width:12.5%;height:4px;background:navy;"></div>
-<div style="float:left;width:12.5%;height:4px;background:crimson;"></div>
-<div style="float:left;width:12.5%;height:4px;background:darkcyan;"></div>
-<div style="float:left;width:12.5%;height:4px;background:purple;"></div>
-<div style="float:left;width:12.5%;height:4px;background:brown;"></div>
-
 ## Django_2.1.8_more
 
 * 静态文件
@@ -566,33 +556,3 @@
 * 采用celery发送邮件
 
   关于celery及其应用，具体请参考【Celery及其应用.md】
-
-
-
-
-
-
-
-
-
-> <span style='color:fuchsia'>fuchsia</span>
->
-> <span style='color:maroon'>maroon</span>
->
-> <span style='color:navy'>navy</span>
->
-> <span style='color:crimson'>crimson</span>
->
-> <span style='color:deeppink'>deeppink</span>
->
-> <span style='color:darkcyan'>darkcyan</span>
-
-<div style="width:100%;height:30px;"><div style='float:right;'>- 2019.06.Django -</div></div>
-<div style="float:left;width:12.5%;height:4px;background:deeppink;"></div>
-<div style="float:left;width:12.5%;height:4px;background:fuchsia;"></div>
-<div style="float:left;width:12.5%;height:4px;background:maroon;"></div>
-<div style="float:left;width:12.5%;height:4px;background:navy;"></div>
-<div style="float:left;width:12.5%;height:4px;background:crimson;"></div>
-<div style="float:left;width:12.5%;height:4px;background:darkcyan;"></div>
-<div style="float:left;width:12.5%;height:4px;background:purple;"></div>
-<div style="float:left;width:12.5%;height:4px;background:brown;"></div>
